@@ -9,6 +9,7 @@ $(document).ready(function () {
 //------------------------------------*****************************************Log and sign
 
 // header-log-in
+
 document.getElementById('header-log-in').addEventListener('click',
     function () {
         document.querySelector('.log-modal').style.display = 'flex';
